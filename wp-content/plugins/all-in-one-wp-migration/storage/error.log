@@ -1,0 +1,132 @@
+[Apr 04 2016 04:26:52] ERROR_HANDLER 
+Number:  2
+Message: Error while sending QUERY packet. PID=5168
+File:    /home/imarkclients/public_html/winestorag/wp-includes/wp-db.php
+Line:    1741
+-------------------------------------------- 
+[Apr 04 2016 04:26:53] ERROR_HANDLER 
+Number:  2
+Message: Error while sending QUERY packet. PID=5168
+File:    /home/imarkclients/public_html/winestorag/wp-includes/wp-db.php
+Line:    1741
+-------------------------------------------- 
+[Apr 04 2016 04:26:53] ERROR_HANDLER 
+Number:  2
+Message: mysql_connect(): No such file or directory
+File:    /home/imarkclients/public_html/winestorag/wp-includes/wp-db.php
+Line:    1475
+-------------------------------------------- 
+[Apr 04 2016 04:26:54] ERROR_HANDLER 
+Number:  2
+Message: mysql_connect(): Connection refused
+File:    /home/imarkclients/public_html/winestorag/wp-includes/wp-db.php
+Line:    1475
+-------------------------------------------- 
+[Apr 04 2016 04:26:55] ERROR_HANDLER 
+Number:  2
+Message: Error while sending QUERY packet. PID=5168
+File:    /home/imarkclients/public_html/winestorag/wp-includes/wp-db.php
+Line:    1741
+-------------------------------------------- 
+[Apr 04 2016 04:26:55] ERROR_HANDLER 
+Number:  2
+Message: mysql_connect(): Connection refused
+File:    /home/imarkclients/public_html/winestorag/wp-includes/wp-db.php
+Line:    1475
+-------------------------------------------- 
+[Apr 04 2016 04:26:56] ERROR_HANDLER 
+Number:  2
+Message: mysql_query(): MySQL server has gone away
+File:    /home/imarkclients/public_html/winestorag/wp-includes/wp-db.php
+Line:    1741
+-------------------------------------------- 
+[Apr 04 2016 04:26:56] ERROR_HANDLER 
+Number:  2
+Message: mysql_query(): Error reading result set's header
+File:    /home/imarkclients/public_html/winestorag/wp-includes/wp-db.php
+Line:    1741
+-------------------------------------------- 
+[Apr 04 2016 04:26:56] ERROR_HANDLER 
+Number:  2
+Message: mysql_connect(): No such file or directory
+File:    /home/imarkclients/public_html/winestorag/wp-includes/wp-db.php
+Line:    1475
+-------------------------------------------- 
+[Apr 04 2016 04:26:57] ERROR_HANDLER 
+Number:  2
+Message: mysql_connect(): Connection refused
+File:    /home/imarkclients/public_html/winestorag/wp-includes/wp-db.php
+Line:    1475
+-------------------------------------------- 
+[Apr 04 2016 04:26:58] ERROR_HANDLER 
+Number:  2
+Message: mysql_query(): MySQL server has gone away
+File:    /home/imarkclients/public_html/winestorag/wp-includes/wp-db.php
+Line:    1741
+-------------------------------------------- 
+[Apr 04 2016 04:26:58] ERROR_HANDLER 
+Number:  2
+Message: mysql_query(): Error reading result set's header
+File:    /home/imarkclients/public_html/winestorag/wp-includes/wp-db.php
+Line:    1741
+-------------------------------------------- 
+[Apr 04 2016 04:26:58] ERROR_HANDLER 
+Number:  2
+Message: mysql_connect(): Connection refused
+File:    /home/imarkclients/public_html/winestorag/wp-includes/wp-db.php
+Line:    1475
+-------------------------------------------- 
+[Apr 04 2016 04:26:59] ERROR_HANDLER 
+Number:  2
+Message: Error while sending QUERY packet. PID=5168
+File:    /home/imarkclients/public_html/winestorag/wp-includes/wp-db.php
+Line:    1741
+-------------------------------------------- 
+[Apr 04 2016 04:26:59] ERROR_HANDLER 
+Number:  2
+Message: mysql_connect(): No such file or directory
+File:    /home/imarkclients/public_html/winestorag/wp-includes/wp-db.php
+Line:    1475
+-------------------------------------------- 
+[Apr 04 2016 04:27:00] ERROR_HANDLER 
+Number:  2
+Message: mysql_connect(): Connection refused
+File:    /home/imarkclients/public_html/winestorag/wp-includes/wp-db.php
+Line:    1475
+-------------------------------------------- 
+[Apr 04 2016 04:27:01] ERROR_HANDLER 
+Number:  2
+Message: mysql_query(): MySQL server has gone away
+File:    /home/imarkclients/public_html/winestorag/wp-includes/wp-db.php
+Line:    1741
+-------------------------------------------- 
+[Apr 04 2016 04:27:01] ERROR_HANDLER 
+Number:  2
+Message: mysql_query(): Error reading result set's header
+File:    /home/imarkclients/public_html/winestorag/wp-includes/wp-db.php
+Line:    1741
+-------------------------------------------- 
+[Apr 04 2016 04:27:01] ERROR_HANDLER 
+Number:  2
+Message: mysql_connect(): Connection refused
+File:    /home/imarkclients/public_html/winestorag/wp-includes/wp-db.php
+Line:    1475
+-------------------------------------------- 
+[Apr 04 2016 04:27:02] ERROR_HANDLER 
+Number:  2
+Message: mysql_query(): MySQL server has gone away
+File:    /home/imarkclients/public_html/winestorag/wp-includes/wp-db.php
+Line:    1741
+-------------------------------------------- 
+[Apr 04 2016 04:27:02] ERROR_HANDLER 
+Number:  2
+Message: mysql_query(): Error reading result set's header
+File:    /home/imarkclients/public_html/winestorag/wp-includes/wp-db.php
+Line:    1741
+-------------------------------------------- 
+[Apr 04 2016 04:27:02] ERROR_HANDLER 
+Number:  2
+Message: mysql_connect(): Connection refused
+File:    /home/imarkclients/public_html/winestorag/wp-includes/wp-db.php
+Line:    1475
+-------------------------------------------- 
